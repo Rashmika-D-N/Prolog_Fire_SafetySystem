@@ -1,0 +1,3 @@
+?- working_directory(_, 'e:/L2S2/AI/ai project v2').working_directory(_, 'e:/L2S2/AI/ai project v2').
+?- [main].
+?- start.
